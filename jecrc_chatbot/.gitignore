@@ -1,0 +1,13 @@
+# Sensitive info
+.env
+
+# Large Database files
+db/*.db
+db/faiss_index/
+
+# Data folder (PDFs)
+data/*.pdf
+
+# Python artifacts
+__pycache__/
+*.pyc
